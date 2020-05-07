@@ -1,0 +1,2 @@
+spectre,password123,mary.scott@snbank.com,peter mark
+mac,david123,james.david@snbank.com,james david
