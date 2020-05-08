@@ -16,6 +16,8 @@ while staff_login == 1:
             print('login successful')
             new_session='session.txt'
             session=open(new_session,'a+')
+            session.write('you are logged in')
+            session.write('\n')
             session.write(f'username:{username}')
             session.write('\n')
             session.write('password:{password}')
